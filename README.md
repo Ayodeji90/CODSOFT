@@ -11,3 +11,6 @@ The Titanic Survival Prediction project aims to predict the survival of passenge
 
 #### Models
 Two Machine Learning models are implemented and evaluated, which include:   Logistic Regression and Random Forest Classifier
+
+
+### 2. Credit Card Fraud Detection
