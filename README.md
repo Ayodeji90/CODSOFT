@@ -13,9 +13,9 @@ The Titanic Survival Prediction project aims to predict the survival of passenge
 Two Machine Learning models are implemented and evaluated, which include:   Logistic Regression and Random Forest Classifier
 
 This project include the following file in the repository
-titanic_susrvival_prediction.ipynb (This contain the code of the project)
-predictions.csv (This store the prediction of the trained model)
-random_forest_model.pkl (This store the trained random forest model as it is prefered beacuse it gives high accuracy compared to Logistic regression)
+[titanic_susrvival_prediction.ipynb](https://github.com/Ayodeji90/CODSOFT/blob/main/titanic_survival_prediction.ipynb) (This contain the code of the project) , 
+[predictions.csv](https://github.com/Ayodeji90/CODSOFT/blob/main/predictions.csv) (This store the prediction of the trained model)
+[random_forest_model.pkl](https://github.com/Ayodeji90/CODSOFT/blob/main/random_forest_model.pkl) (This store the trained random forest model as it is prefered beacuse it gives high accuracy compared to Logistic regression)
 
 
 ### 2. Credit Card Fraud Detection
