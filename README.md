@@ -10,5 +10,4 @@ The Titanic Survival Prediction project aims to predict the survival of passenge
 #### DATA : You can get the dataset [here](https://www.kaggle.com/datasets/yasserh/titanic-dataset) It contains various attributes of passengers on the Titanic, including:PassengerId,Pclass (Passenger Class),Name,Sex,Age,SibSp (Number of Siblings/Spouses Aboard),Parch (Number of Parents/Children Aboard),Ticket,Fare,Cabin,Embarked (Port of Embarkation)
 
 #### Models
-Two Machine Learning models are implemented and evaluated, which include:
-Logistic Regression and Random Forest Classifier
+Two Machine Learning models are implemented and evaluated, which include:Logistic Regression and Random Forest Classifier
