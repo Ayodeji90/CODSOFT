@@ -12,5 +12,10 @@ The Titanic Survival Prediction project aims to predict the survival of passenge
 #### Models
 Two Machine Learning models are implemented and evaluated, which include:   Logistic Regression and Random Forest Classifier
 
+This project include the following file in the repository
+titanic_susrvival_prediction.ipynb (This contain the code of the project)
+predictions.csv (This store the prediction of the trained model)
+random_forest_model.pkl (This store the trained random forest model as it is prefered beacuse it gives high accuracy compared to Logistic regression)
+
 
 ### 2. Credit Card Fraud Detection
